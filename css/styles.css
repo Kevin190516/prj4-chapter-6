@@ -25,3 +25,8 @@ nav{
 body{
     background-color: #e8d0cb;
 }
+img {
+  border-radius: 50%;
+  width:300px;
+  height:300px; 
+}
